@@ -1,0 +1,3 @@
+- wss://bbw-nostr.xyz
+- wss://nostr.hifish.org
+- wss://nostr.xxi.quest
