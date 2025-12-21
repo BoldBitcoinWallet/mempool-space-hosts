@@ -1,0 +1,37 @@
+---
+- name: The Bitcoin Way
+  url: https://www.thebitcoinway.com
+  description: Expert training to master Bitcoin self-custody and privacy.
+  logoUrl: "/logo-the-bitcoin-way.svg"
+  fallback: "₿"
+  tintColor: ''
+- name: 21LIBERTY
+  url: https://21liberty.io
+  description: Hands-on Bitcoin workshops and self-custody mentoring.
+  logoUrl: "/logo-21liberty.png"
+  fallback: "\U0001F511"
+  tintColor: ''
+- name: Custodyschool
+  url: https://custodyschool.com
+  description: Practical Bitcoin self-custody consulting & guidance.
+  logoUrl: "/logo-custodyschool.png"
+  fallback: "\U0001F4D8"
+  tintColor: ''
+- name: The Bitcoin Adviser
+  url: https://thebitcoinadviser.com
+  description: Collaborative Bitcoin security & self-custody education.
+  logoUrl: "/logo-bitcoin-adviser.png"
+  fallback: "\U0001F393"
+  tintColor: ''
+- name: BTC Self Custody
+  url: https://btcselfcustody.io
+  description: Resources for sovereign Bitcoin wallet setups & node info.
+  logoUrl: "/logo-btc-self-custody.svg"
+  fallback: "\U0001F6E1️"
+  tintColor: ''
+- name: Bitcoin Magazine (b.tc)
+  url: https://b.tc
+  description: Trusted Bitcoin media & community hub with deep Bitcoin-first coverage.
+  logoUrl: "/logo-bitcoin-magazine.svg"
+  fallback: "\U0001F4F0"
+  tintColor: "#ffffff"
