@@ -1,0 +1,55 @@
+---
+- name: Sparrow Wallet
+  url: https://sparrowwallet.com
+  description: Bitcoin desktop wallet with advanced PSBT support and multisig features.
+  logoUrl: "/logo-sparrow.png"
+  fallback: "\U0001FAB6"
+  psbtInteroperable: true
+  platforms:
+  - Desktop
+  tintColor: ''
+- name: Electrum
+  url: https://electrum.org
+  description: Lightweight Bitcoin client with full PSBT support for multisig workflows.
+  logoUrl: "/logo-electrum.png"
+  fallback: "⚡"
+  psbtInteroperable: true
+  platforms:
+  - Desktop
+  tintColor: ''
+- name: Coldcard
+  url: https://coldcard.com
+  description: Hardware wallet with advanced PSBT support and air-gapped signing.
+  logoUrl: "/logo-coldcard.png"
+  fallback: "❄️"
+  psbtInteroperable: true
+  platforms:
+  - Hardware
+  tintColor: ''
+- name: Specter Desktop
+  url: https://specter.solutions
+  description: Desktop wallet focused on multisig and PSBT workflows.
+  logoUrl: "/logo-specter.png"
+  fallback: "\U0001F47B"
+  psbtInteroperable: true
+  platforms:
+  - Desktop
+  tintColor: ''
+- name: Blue Wallet
+  url: https://bluewallet.io
+  description: Mobile Bitcoin wallet with PSBT support for multisig setups.
+  logoUrl: "/logo-bluewallet.png"
+  fallback: "\U0001F499"
+  psbtInteroperable: true
+  platforms:
+  - Mobile
+  tintColor: ''
+- name: Wasabi Wallet
+  url: https://wasabiwallet.io
+  description: Privacy-focused Bitcoin wallet with CoinJoin and PSBT support.
+  logoUrl: "/logo-wasabi.png"
+  fallback: "\U0001F9C5"
+  psbtInteroperable: true
+  platforms:
+  - Desktop
+  tintColor: ''
