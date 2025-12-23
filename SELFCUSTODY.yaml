@@ -17,10 +17,10 @@
   logoUrl: "/logo-custodyschool.png"
   fallback: "\U0001F4D8"
   tintColor: ''
-- name: The Bitcoin Adviser
-  url: https://thebitcoinadviser.com
-  description: Collaborative Bitcoin security & self-custody education.
-  logoUrl: "/logo-bitcoin-adviser.png"
+- name: Andreas Antonopoulos
+  url: https://aantonop.com
+  description: Renowned Bitcoin educator and advocate for individual sovereignty.
+  logoUrl: "https://aantonop.com/favicon.ico"
   fallback: "\U0001F393"
   tintColor: ''
 - name: BTC Self Custody
