@@ -20,7 +20,7 @@
 - name: Andreas Antonopoulos
   url: https://aantonop.com
   description: Renowned Bitcoin educator and advocate for individual sovereignty.
-  logoUrl: "https://aantonop.com/favicon.ico"
+  logoUrl: "/logo-aantonop.svg"
   fallback: "\U0001F393"
   tintColor: ''
 - name: BTC Self Custody
