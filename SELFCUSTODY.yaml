@@ -22,7 +22,7 @@
   description: Renowned Bitcoin educator and advocate for individual sovereignty.
   logoUrl: "/logo-aantonop.svg"
   fallback: "\U0001F393"
-  tintColor: ''
+  tintColor: '#ffffff'
 - name: BTC Self Custody
   url: https://btcselfcustody.io
   description: Resources for sovereign Bitcoin wallet setups & node info.
