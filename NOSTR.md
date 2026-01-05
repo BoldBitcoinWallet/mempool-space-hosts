@@ -1,6 +1,5 @@
 - wss://bbw-nostr.xyz
 - wss://nostr.hifish.org
 - wss://nostr.oxtr.dev
-- wss://nostr.xxi.quest
 - wss://nostr.mom
 - wss://relay.nostr.wirednet.jp
