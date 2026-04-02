@@ -11,5 +11,4 @@
 "Most of the value comes from the value that others place in it." — **Satoshi Nakamoto** (comparing Bitcoin to gold; exact date not pinpointed, but from early 2009–2010 discussions)
 "The usefulness of the exchanges made possible by Bitcoin will far exceed the cost of electricity used." — **Satoshi Nakamoto** (on energy use; from 2010 forum posts)
 "Proof-of-work speaks for itself." — **Satoshi Nakamoto**, August 7–16, 2010 (BitcoinTalk forum, multiple references)
-"Bitcoin is a tool for freeing humanity from oligarchs and tyrants, dressed up as a get-rich-quick scheme." — Naval Ravikant
 “La red es robusta en su simplicidad no estructurada.” ― **Satoshi Nakamoto**, MANIFIESTO BITCOIN
