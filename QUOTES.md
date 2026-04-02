@@ -1,6 +1,6 @@
+**Your keys, your bitcoin** — self-custody is worth the responsibility. — **Bold Bitcoin Wallet**
 **Heads up from Bold**: Beware of anyone claiming to be from Bold Bitcoin Wallet support, the team, or “official” help. The project never asks for keys, keyshares, wallet data, or any access to your wallet—any such request is a scam; slow down and verify every action.
 "**The Times 03/Jan/2009** Chancellor on brink of second bailout for banks." — **Satoshi Nakamoto**, January 3, 2009 (Genesis block)
-**Your keys, your bitcoin** — self-custody is worth the responsibility. — **Bold Bitcoin Wallet**
 "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party." — **Satoshi Nakamoto**, October 31, 2008 (Whitepaper announcement email)
 **Self-custody** is power with a purpose: you verify what you sign, you hold what you own, and you choose who—if anyone—you trust. Step in with care; stay in with confidence. — **Bold Bitcoin Wallet**
 "The root problem with conventional currency is all the trust that's required to make it work." — **Satoshi Nakamoto**, February 11, 2009 (P2P Foundation post)
