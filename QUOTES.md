@@ -1,4 +1,4 @@
-Beware of anyone claiming to be from Bold Bitcoin Wallet support, the team, or “official” help. The project never asks for keys, keyshares, seeds, or access to your wallet—any such request is a scam; slow down and verify every action.
+**Heads up from Bold**: Beware of anyone claiming to be from Bold Bitcoin Wallet support, the team, or “official” help. The project never asks for keys, keyshares, wallet data, or any access to your wallet—any such request is a scam; slow down and verify every action.
 "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks." — Satoshi Nakamoto, January 3, 2009 (Genesis block)
 "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party." — Satoshi Nakamoto, October 31, 2008 (Whitepaper announcement email)
 "The root problem with conventional currency is all the trust that's required to make it work." — Satoshi Nakamoto, February 11, 2009 (P2P Foundation post)
