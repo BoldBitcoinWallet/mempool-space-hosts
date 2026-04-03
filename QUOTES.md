@@ -1,5 +1,5 @@
 **Your keys, your bitcoin** — self-custody is worth the responsibility
-**Bold** at Bitcoin Ireland 2026 🇮🇪 — meet us, talk self-custody, code **BOLDBTC** (10% off) — __<https://bitcoinireland.eu>__ ⚡{25/05/2026}
+**Bold** at Bitcoin Ireland 2026 🇮🇪 May 22–25, Dublin Join 1000+ Bitcoiners for four days of learning, networking, and building. Meet us, talk self-custody, code **BOLDBTC** (10% off) — __<https://bitcoinireland.eu>__ ⚡{25/05/2026}
 **Heads up from Bold**: Beware of anyone claiming to be from Bold Bitcoin Wallet support, the team, or “official” help. The project never asks for keys, keyshares, wallet data, or any access to your wallet—any such request is a scam; slow down and verify every action
 "**The Times 03/Jan/2009** Chancellor on brink of second bailout for banks." — **Satoshi Nakamoto**, January 3, 2009 (Genesis block)
 "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party." — **Satoshi Nakamoto**, October 31, 2008 (Whitepaper announcement email)
