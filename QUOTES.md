@@ -1,3 +1,4 @@
 **Your keys, your bitcoin** — self-custody is worth the responsibility
 **Bold** at __<https://bitcoinireland.eu>(Bitcoin Ireland)__ 2026 🇮🇪 May 22–25, Dublin Join 1000+ Bitcoiners for four days of learning, networking, and building. Meet us, talk self-custody, code **__<https://x.com/boldbtcwallet/status/2037416797587259699>(BOLDBTC)__** (10% off) ⚡{25/05/2026}
+**Bold** at Proof Of People 🇮🇪 Jun 29, **__<https://maps.app.goo.gl/XJfFd991YKsYChgt7?g_st=ac>at Dublin / 📍 The Storyteller Pub__**, Join us, talk bitcoin, bold & self-custody.  **__<https://x.com/i/status/2065679157099372613>Checkout__**⚡{30/06/2026}
 **Heads up from Bold**: Beware of anyone claiming to be from Bold Bitcoin Wallet support, the team, or “official” help. The project never asks for keys, keyshares, wallet data, or any access to your wallet—any such request is a scam; slow down and verify every action
