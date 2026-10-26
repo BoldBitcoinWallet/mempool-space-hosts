@@ -5,4 +5,3 @@
 - https://benpool.mempool.space
 - https://mempool.guide
 - https://metaplanet.mempool.space
-- https://mempool.orangefren.com
