@@ -1,6 +1,2 @@
 - https://mempool.space
-- https://mempool.ninja
-- https://mempool.guide
-- https://strategy.mempool.space
-- https://benpool.mempool.space
-- https://metaplanet.mempool.space
+- https://testnet4.xxi.quest
