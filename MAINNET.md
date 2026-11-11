@@ -1,7 +1,7 @@
 - https://mempool.space
+- https://mempool.xxi.quest
 - https://mempool.ninja
 - https://mempool.emzy.de
 - https://strategy.mempool.space
 - https://benpool.mempool.space
-- https://mempool.guide
 - https://metaplanet.mempool.space
